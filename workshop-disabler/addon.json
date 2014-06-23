@@ -1,0 +1,13 @@
+{
+	"title"		:	"Workshop Disabler",
+	"type"		:	"tool",
+	"tags"		:	[ "Build" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.git*",
+		"*.bat*"
+	]
+}
