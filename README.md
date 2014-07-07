@@ -1,5 +1,5 @@
-GMod-Workshop
-=============
+Garry's Mod Workshop
+====================
 
 Some of the plugins I made for the Garry's Mod Steam Workshop. These are released "AS IS" with no warranty of any kind.
 
@@ -8,10 +8,9 @@ Some of the plugins I made for the Garry's Mod Steam Workshop. These are release
 These files are licensed under the GNU General Public License v2, see the [license](LICENSE).
 
 
-## Wunt sum answer? ##
-Here's a quick FAQ
+## Frequently Asked ##
 
-### Will you accept merge requests ###
+### Will you accept merge requests? ###
 Yeah, if I think the quality of what you merged is good enough, I'll merge it.
 
 ### Can you make me a contributer to your addons on the Workshop? ###
