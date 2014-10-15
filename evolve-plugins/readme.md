@@ -11,7 +11,7 @@ You can ask git (or any other comparison program) to tell you the difference.
 
 
 ## Anything about the license?
-For these plug-ins the same license applies as (for this repository)[/LICENSE].
+For these plug-ins the same license applies as [for this repository](/LICENSE).
 
 Enjoy them!
 
