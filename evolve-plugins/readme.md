@@ -11,7 +11,7 @@ You can ask git (or any other comparison program) to tell you the difference.
 
 
 ## Anything about the license?
-For these plug-ins the same license applies as [for this repository](/LICENSE).
+These plugins, just as this repository, is licensed under the [GNU General Public License v2](/LICENSE).
 
 Enjoy them!
 
