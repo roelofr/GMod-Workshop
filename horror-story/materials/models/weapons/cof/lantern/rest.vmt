@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/weapons/cof/lantern/rest"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-"$envmaptint" "[.1 .1 .1]"
-	"$envmapsaturation" .5
-	"$model" 1
-}
